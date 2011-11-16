@@ -1,0 +1,24 @@
+Decepticon-bot - Changelog - 10 / 11 - 11
+Ändrat:
+Lagt till trådhantering, alltså att om man vill att tråden ska vila kan man använda sig utav !wait.
+Fixat så att !sqli och !sqlm är två skillda saker.
+Snygga till programmet.
+
+Decepticon-bot - Changelog - 14 / 11 - 11
+Ändrat:
+Lagt till en proxy alltså som grundinställning tor.
+Fixat så att den kör 2 separata trådar. Det är nu uppdelat så att Megatron(i) tar hand om 
+det lite mer skojjiga och Optimus tar hand om det verkliga. Startas genom kommandot !autobot.
+
+Deception-bot - Aka Cybertron eller instrument of doom 2.0 16 / 11 - 11
+Ändrat:
+Fixat både decepticon och autobot som olika trådar som gör olika saker.
+Startat ett git hub projekt.
+Bytt namn på projektet till Cybertron aka Instrument of doom 2.0.
+
+ToDo:
+Ordna så att det går att använda ssh på proxy. Dela upp och snygga till koden. Göra fler trådar 
+så att det går att köra flera processer samtidigt. Löst genom att dela upp det så att en bot gör portscanningen,
+en bot hostskanningen osv.
+Ordna upp alltihop och använda en config fil samt skriva ett hjälpavsnitt för botten.
+Lägga upp den på githubb
