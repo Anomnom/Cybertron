@@ -1,9 +1,9 @@
 |********************************************************************************************************|
 | Hello and wellcome to Cybertron!									 |
 |													 |
-| Cybertron is an Java based Irc-bot that uses Pircbot as external library.. I also included jdbc,	 |							 |
+| Cybertron is an Java based Irc-bot that uses Pircbot as external library.. I also included jdbc just 	 |
 |													 |
-| the extension for mysql in java for the recording of some operation (More on that on the wiki).	 |
+| becuase I can!											 |
 |													 |
 | And as in the story there's two teams of Transformers, one good (Autobots) and one bad (Decepticon).   |
 |													 |
